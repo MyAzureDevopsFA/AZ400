@@ -2,5 +2,10 @@
 	{
 		"name":"Testing only",
 		"version":"v1.1"
+	},
+	{
+		"name":"Prod Only",
+		"Version": "v1.0"
 	}
+
 ]
