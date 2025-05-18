@@ -1,0 +1,6 @@
+File created by featureA
+
+Adding more information about this featureA
+
+Section 1
+Section 2
